@@ -13,6 +13,7 @@ namespace QL_Xe
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
+        ///Nồng ngu lắm!
         static void Main()
         {
             Application.EnableVisualStyles();
